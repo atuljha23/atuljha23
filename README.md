@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/atul23jha/](https://www.linkedin.com/in/atul23jha/)
 
-- ⚡ Fun fact **I once won a drag racing competition.**
+- ⚡ Fun fact **I sold an online multiplayer game when I was 18 years old that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
