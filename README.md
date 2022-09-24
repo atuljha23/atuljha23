@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 🤝 I’m looking for help with **Getting a New Job**
+- 🤝 I’m working as a Software Developer at **Legato Health Technology Ireland**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atuljha23?tab=repositories](https://github.com/atuljha23?tab=repositories)
 
